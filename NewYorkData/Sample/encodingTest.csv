@@ -1,0 +1,7 @@
+host_location,host_response_time,host_response_rate,host_acceptance_rate,host_is_superhost,host_total_listings_count,host_verifications,reviews_per_month
+"New York, New York, United States",within a few hours,1,N/A,t,1,"['email', 'phone', 'facebook', 'reviews']",2.49
+"New York, New York, United States",within an hour,1,N/A,f,1,"['email', 'phone', 'reviews', 'kba']",0.75
+"New York, New York, United States",within a few hours,1,N/A,f,1,"['email', 'phone', 'reviews']",1.01
+"Los Angeles, California, United States",within an hour,1,N/A,f,1,"['email', 'phone', 'reviews', 'kba']",0.59
+"New York, New York, United States",N/A,N/A,N/A,f,1,"['email', 'phone']",
+"New York, New York, United States",within an hour,1,N/A,f,1,"['email', 'phone', 'facebook', 'reviews', 'jumio', 'kba']",1.28
